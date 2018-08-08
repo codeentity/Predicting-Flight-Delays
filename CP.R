@@ -254,8 +254,3 @@ predictedResults<-rename(predictedResults,replace = c("p$binary"="label"))
 
 result<-merge(actualResults,predictedResults,by="label")
 head(result)
-
-
-
-
-
