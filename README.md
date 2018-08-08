@@ -14,4 +14,4 @@ This project is completed developed using **R Programming Language**. This proje
 -   [Akshat Dhiman]()
 -   [Bikash Boro]()
 
-Developed with :heart: :laptop: Contributions are always appreciated. :wink:
+Developed with :heart: :computer: Contributions are always appreciated. :wink:
